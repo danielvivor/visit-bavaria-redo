@@ -155,7 +155,8 @@ footer p {
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
     html {
-        font-size: 87.5%; /* 1rem = 14px */
+        font-size: 87.5%;
+        /* 1rem = 14px */
     }
 
     main {
@@ -167,7 +168,20 @@ footer p {
     }
 }
 
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    html {
+        font-size: 100%; /* 1rem = 16px */
+    }
 
+    #logo {
+        font-size: 4rem;
+    }
+
+    #menu a {
+        font-size: 1.8rem;
+    }
+}
 
 /* ================================
    Index Page (index.html)
