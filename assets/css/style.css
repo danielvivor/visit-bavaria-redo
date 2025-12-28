@@ -168,8 +168,23 @@ footer p {
     }
 }
 
-/* Extra large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
+/* Extra large devices (large desktops, 1024px and up) */
+@media (min-width: 1024px) {
+    html {
+        font-size: 100%; /* 1rem = 16px */
+    }
+
+    #logo {
+        font-size: 4rem;
+    }
+
+    #menu a {
+        font-size: 1.8rem;
+    }
+}
+
+/* Extra Extra large devices ( 1280px and up) */
+@media (min-width: 1280px) {
     html {
         font-size: 100%; /* 1rem = 16px */
     }
