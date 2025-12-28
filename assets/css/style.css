@@ -48,6 +48,11 @@ header a {
     letter-spacing: 4px;
 }
 
+#menu a {
+  line-height: 50px;
+}
+
+
 /* Mobile nav toggle */
 nav {
     position: absolute;
