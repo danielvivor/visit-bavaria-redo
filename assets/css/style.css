@@ -36,6 +36,11 @@ header {
     z-index: 99;
 }
 
+#logo {
+    font-size: 3rem;
+    letter-spacing: 1.5px;
+}
+
 header a {
     text-decoration: none;
     color: #000000;
