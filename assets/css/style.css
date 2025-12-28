@@ -151,6 +151,24 @@ footer p {
    Places Page (places.html)
    ================================ */
 
+#places {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+#landmarks h3 {
+    font-size: 2rem;
+    color: #6b4226;
+    font-style: italic;
+    margin-top: 1rem;
+}
+
+#landmarks h5 {
+    font-size: 1.5rem;
+    line-height: 28px;
+    margin-bottom: 0.5rem;
+}
+
 #landmarks {
     padding: 1rem;
     background: rgba(194, 169, 127, 0.8);
