@@ -129,7 +129,8 @@ footer p {
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
     html {
-        font-size: 75%; /* 1rem = 12px */
+        font-size: 75%;
+        /* 1rem = 12px */
     }
 
     /* Switch nav from burger to horizontal */
@@ -141,12 +142,28 @@ footer p {
     }
 
     .nav-toggle-label {
-        display: none; /* Hide burger icon */
+        display: none;
+        /* Hide burger icon */
     }
 
     #menu {
         display: flex;
         gap: 2rem;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    html {
+        font-size: 87.5%; /* 1rem = 14px */
+    }
+
+    main {
+        margin-top: 51px;
+    }
+
+    #menu a {
+        font-size: 1.6rem;
     }
 }
 
