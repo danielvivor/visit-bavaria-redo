@@ -212,6 +212,24 @@ footer p {
         font-size: 62.5%;
         /* 10px = 1rem */
     }
+
+    #places {
+        font-size: 4rem;
+        margin-bottom: 1rem;
+    }
+
+    #landmarks h3 {
+        font-size: 2.8rem;
+        color: #6b4226;
+        font-style: italic;
+        margin-top: 1rem;
+    }
+
+    #landmarks h5 {
+        font-size: 2rem;
+        line-height: 34px;
+        margin-bottom: 0.5rem;
+    }
 }
 
 /* Medium devices (tablets, 768px and up) */
