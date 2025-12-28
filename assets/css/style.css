@@ -37,7 +37,7 @@ header {
 }
 
 header i {
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 #logo {
@@ -128,14 +128,18 @@ footer p {
     background: rgba(0, 0, 0, 0.3);
     position: absolute;
     top: 40%;
-    left: 50%;
-    transform: translateX(-50%);
+    width: 100%;
     text-align: center;
     padding: 1rem;
     border-radius: 6px;
 }
 
 #cover-text h2 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+#cover-text p {
     font-size: 2rem;
     margin-bottom: 0.5rem;
 }
