@@ -57,3 +57,9 @@ nav {
   font-size: 2rem;
   cursor: pointer;
 }
+
+/* ----- Main content ----- */
+main {
+  flex: 1 0 auto; /* Push footer down */
+  margin-top: 24px; /* Offset fixed header */
+}
