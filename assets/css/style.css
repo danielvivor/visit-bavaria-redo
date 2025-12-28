@@ -263,6 +263,10 @@ footer p {
     #cover-text p {
         font-size: 1.8rem;
     }
+
+    #landmarks h5 {
+        line-height: 38px;
+    }
 }
 
 /* Large devices (desktops, 992px and up) */
