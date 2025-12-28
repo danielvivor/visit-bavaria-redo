@@ -2,7 +2,15 @@
 
 /* Reset default browser styles */
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global Styles (apply to all pages) */
+body {
+    font-family: "Lato", sans-serif; /* Main font */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensure footer stays at bottom */
 }
