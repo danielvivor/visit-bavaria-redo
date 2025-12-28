@@ -19,7 +19,6 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    /* Ensure footer stays at bottom */
 }
 
 /* ----- Header ----- */
@@ -61,6 +60,9 @@ header a {
     line-height: 50px;
 }
 
+.active {
+  border-bottom: 2px solid #000000;
+}
 
 /* Mobile nav toggle */
 nav {
@@ -100,6 +102,8 @@ main {
 
 footer p {
     text-align: center;
+    font-size: 1.2rem;
+    padding-bottom: 0.5rem;
 }
 
 #social-networks {
@@ -114,6 +118,35 @@ footer p {
     color: #000000;
 }
 
+/* ================================
+   Index Page (index.html)
+   ================================ */
+#hero {
+    height: 100vh;
+    background: url("/assets/images/hero-image.jpg") no-repeat center center/cover;
+}
+
+#cover-text {
+    color: #fff;
+    background: rgba(0, 0, 0, 0.3);
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 6px;
+}
+
+#cover-text h2 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+#cover-text p {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
 /* Media Queries */
 
 /* Small devices (landscape phones, 576px and up) */
@@ -121,8 +154,7 @@ footer p {
 
     /* Recalibrate font sizing */
     html {
-        font-size: 62.5%;
-        /* 10px = 1rem */
+        font-size: 62.5%; /* 10px = 1rem */
     }
 }
 
@@ -143,13 +175,20 @@ footer p {
 
     .nav-toggle-label {
         display: none;
-        /* Hide burger icon */
     }
 
     #menu {
         display: flex;
         gap: 2rem;
     }
+
+    #cover-text h2 {
+    font-size: 2.5rem;
+}
+
+    #cover-text p {
+    font-size: 1.8rem;
+}
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -198,31 +237,17 @@ footer p {
     }
 }
 
-/* ================================
-   Index Page (index.html)
-   ================================ */
-#hero {
-    height: 100vh;
-    background: url("/assets/images/hero-image.jpg") no-repeat center center/cover;
+/* Extra extra extra large devices (very large desktops, 1536px and up) */
+@media (min-width: 1536px) {
+    html {
+        font-size: 100%; /* 1rem = 16px */
+    }
+
+    #cover-text h2 {
+    font-size: 4rem;
 }
 
-#cover-text {
-    color: #fff;
-    background: rgba(0, 0, 0, 0.3);
-    position: absolute;
-    top: 40%;
-    width: 100%;
-    text-align: center;
-    padding: 1rem;
-    border-radius: 6px;
+    #cover-text p {
+    font-size: 2.8rem;
 }
-
-#cover-text h2 {
-    font-size: 2rem;
-    margin-bottom: 0.5rem;
-}
-
-#cover-text p {
-    font-size: 2rem;
-    margin-bottom: 0.5rem;
 }
