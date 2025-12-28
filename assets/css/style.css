@@ -247,6 +247,14 @@ footer p {
     font-weight: 400;
 }
 
+.signup-box input {
+  padding: 0.5rem;
+  border: 1px solid #8d540a;
+  border-radius: 4px;
+  background: #fdf6e3;
+  font-size: 1.5rem;
+}
+
 /* Media Queries */
 
 /* Small devices (landscape phones, 576px and up) */
