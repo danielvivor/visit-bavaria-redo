@@ -14,76 +14,98 @@ html {
 
 /* Global Styles (apply to all pages) */
 body {
-    font-family: "Lato", sans-serif; /* Main font */
+    font-family: "Lato", sans-serif;
+    /* Main font */
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Ensure footer stays at bottom */
+    min-height: 100vh;
+    /* Ensure footer stays at bottom */
 }
 
 /* ----- Header ----- */
 header {
-  background: #fff;
-  padding: 0 1rem;
-  position: fixed; /* Sticks to top */
-  width: 100%;
-  box-shadow: 0 2px 2px #000;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  z-index: 99;
+    background: #fff;
+    padding: 0 1rem;
+    position: fixed;
+    /* Sticks to top */
+    width: 100%;
+    box-shadow: 0 2px 2px #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 99;
+}
+
+header a {
+    text-decoration: none;
+    color: #000000;
+}
+
+/* Navigation menu */
+#menu {
+    list-style: none;
+    font-size: 2rem;
+    letter-spacing: 4px;
 }
 
 /* Mobile nav toggle */
 nav {
-  position: absolute;
-  background: #ffffff;
-  width: 100%;
-  left: 0;
-  top: 100%;
-  padding: 0 1rem;
-  box-shadow: 0 2px 2px #000;
-  display: none; /* Hidden until toggle */
+    position: absolute;
+    background: #ffffff;
+    width: 100%;
+    left: 0;
+    top: 100%;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #000;
+    display: none;
+    /* Hidden until toggle */
 }
 
-#nav-toggle:checked ~ nav {
-  display: block;
+#nav-toggle:checked~nav {
+    display: block;
 }
 
 #nav-toggle {
-  display: none;
+    display: none;
 }
 
 .nav-toggle-label {
-  font-size: 2rem;
-  cursor: pointer;
+    font-size: 2rem;
+    cursor: pointer;
 }
 
 /* ----- Main content ----- */
 main {
-  flex: 1 0 auto; /* Push footer down */
-  margin-top: 24px; /* Offset fixed header */
+    flex: 1 0 auto;
+    /* Push footer down */
+    margin-top: 24px;
+    /* Offset fixed header */
 }
 
+
+/* ================================
+   Index Page (index.html)
+   ================================ */
 #hero {
-  height: 100vh;
-  background: url("/assets/images/hero-image.jpg") no-repeat center center/cover;
+    height: 100vh;
+    background: url("/assets/images/hero-image.jpg") no-repeat center center/cover;
 }
 
 #cover-text {
-  color: #fff;
-  background: rgba(0, 0, 0, 0.3);
-  position: absolute;
-  top: 40%;
-  left: 50%;
-  transform: translateX(-50%);
-  text-align: center;
-  padding: 1rem;
-  border-radius: 6px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.3);
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    padding: 1rem;
+    border-radius: 6px;
 }
 
 #cover-text h2 {
-  font-size: 2rem;
-  margin-bottom: 0.5rem;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
 }
 
 /* ----- Footer ----- */
@@ -93,8 +115,8 @@ footer p {
 }
 
 #social-networks {
-  display: flex;
-  justify-content: space-between;
-  list-style: none;
-  padding: 0.7rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0.7rem 2rem;
 }
