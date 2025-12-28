@@ -63,3 +63,11 @@ main {
   flex: 1 0 auto; /* Push footer down */
   margin-top: 24px; /* Offset fixed header */
 }
+
+/* ----- Footer ----- */
+#social-networks {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0 2rem;
+}
