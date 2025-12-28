@@ -64,6 +64,11 @@ main {
   margin-top: 24px; /* Offset fixed header */
 }
 
+#hero {
+  height: 100vh;
+  background: url("/assets/images/hero-image.jpg") no-repeat center center/cover;
+}
+
 /* ----- Footer ----- */
 
 footer p {
