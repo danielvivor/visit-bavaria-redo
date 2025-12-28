@@ -65,6 +65,11 @@ main {
 }
 
 /* ----- Footer ----- */
+
+footer p {
+    text-align: center;
+}
+
 #social-networks {
   display: flex;
   justify-content: space-between;
