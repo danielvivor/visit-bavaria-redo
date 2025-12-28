@@ -167,10 +167,21 @@ footer p {
 
 /* Landmark videos */
 .landmarks-video {
-  width: 100%;
-  height: 250px;
-  box-shadow: 0 0 6px rgba(0, 0, 0, 1);
-  margin-bottom: 2rem;
+    width: 100%;
+    height: 250px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 1);
+    margin-bottom: 2rem;
+}
+
+#landmarks a {
+    color: red;
+    font-style: italic;
+    text-decoration: none;
+}
+
+#landmarks a:hover {
+    text-decoration: underline;
+    color: darkred;
 }
 
 /* Media Queries */
