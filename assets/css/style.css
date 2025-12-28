@@ -69,6 +69,23 @@ main {
   background: url("/assets/images/hero-image.jpg") no-repeat center center/cover;
 }
 
+#cover-text {
+  color: #fff;
+  background: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  padding: 1rem;
+  border-radius: 6px;
+}
+
+#cover-text h2 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
 /* ----- Footer ----- */
 
 footer p {
@@ -79,5 +96,5 @@ footer p {
   display: flex;
   justify-content: space-between;
   list-style: none;
-  padding: 0 2rem;
+  padding: 0.7rem 2rem;
 }
