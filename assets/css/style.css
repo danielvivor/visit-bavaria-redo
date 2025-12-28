@@ -7,6 +7,11 @@
     box-sizing: border-box;
 }
 
+/* Recalibrate font sizing */
+html {
+    font-size: 62.5%;
+}
+
 /* Global Styles (apply to all pages) */
 body {
     font-family: "Lato", sans-serif; /* Main font */
