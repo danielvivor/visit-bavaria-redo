@@ -292,6 +292,19 @@ footer p {
     #landmarks h5 {
         line-height: 50px;
     }
+
+    #landmarks-main {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 30px;
+        align-items: stretch; /* ensures all items in a row match height */
+    }
+
+    .landmarks-sub {
+        display: flex;
+        flex-direction: column; /* keeps text, image, video stacked neatly */
+        justify-content: space-between; /* balances content inside each card */
+    }
 }
 
 /* Extra large devices (large desktops, 1024px and up) */
