@@ -19,3 +19,16 @@ body {
     flex-direction: column;
     min-height: 100vh; /* Ensure footer stays at bottom */
 }
+
+/* ----- Header ----- */
+header {
+  background: #fff;
+  padding: 0 1rem;
+  position: fixed; /* Sticks to top */
+  width: 100%;
+  box-shadow: 0 2px 2px #000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 99;
+}
