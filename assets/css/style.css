@@ -242,6 +242,11 @@ footer p {
     gap: 1rem;
 }
 
+.signup-box label {
+    font-size: 1.6rem;
+    font-weight: 400;
+}
+
 /* Media Queries */
 
 /* Small devices (landscape phones, 576px and up) */
