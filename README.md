@@ -36,6 +36,29 @@ The homepage opens with a full‑height background image that sets the tone for 
   - This feature is especially valuable for visitors who want more than just images or videos.
   - It ensures the site serves as both an educational resource and a visually engaging experience.
 
+ ### Features to be implemented
+- Themes  
+  - Explores overarching cultural and historical themes that define Bavarian identity. This will help users understand the broader context behind individual landmarks, artefacts, and events.
+
+- Biographies  
+  - Profiles influential figures from Bavarian history, highlighting their contributions and legacy. This feature will give users a human perspective on the region’s development and cultural richness.
+
+- Timelines  
+  - Provides an interactive chronological view of key events, allowing users to explore history dynamically. This will make it easier for visitors to connect events across centuries and see how Bavaria evolved over time.
+
+- Events  
+  - Covers traditional festivals, cultural gatherings, and historical milestones. This will allow users to discover living traditions and plan visits around authentic Bavarian experiences.
+
+- Resources  
+  - Offers references, external links, and supporting materials for deeper exploration. This ensures the site serves as a reliable starting point for academic research or personal learning.
+
+- About  
+  - Explains the purpose of the project, its creators, and guiding principles. This section will give users transparency and context about the project’s mission.
+
+- Contact  
+  - Provides ways to reach out for feedback, collaboration, or inquiries. This feature will encourage community engagement and open opportunities for partnerships.
+
+
 
 
 
