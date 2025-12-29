@@ -79,10 +79,32 @@ Signup Form
  Footer Links  
   - Confirmed that links to Facebook, YouTube, Instagram, and Twitter open correctly in new tabs and are accessible.
 
+Responsiveness
+  - Tested on multiple screen sizes (desktop, tablet, mobile).
+  - Layout adapts correctly, with grid and flexbox ensuring consistent alignment.
+  -Text remains legible and buttons are easy to interact with on smaller devices.
 
+Browser Compatibility
+  - Chrome, Firefox, Edge, Safari: All major browsers render the site consistently.
+  - CSS styles, hover effects, and layout behave as intended across platforms.
 
+Accessibility
+  - Semantic HTML structure (<nav>, <main>, <footer>) supports screen readers.
+  - All images include descriptive alt text.
+  - Color contrast between text and background meets accessibility standards.
 
+Bugs and Issues Discovered
+  - Form Validation: While required fields prevent empty submissions, more advanced validation (e.g., email format checking) is not yet implemented.
 
+Validator Testing
+- HTML
+  - No errors were returned when passing through the official W3C validator.
+- CSS
+  - No errors were found when passing through the official (Jigsaw) validator.
+ 
+Deployment
+  - The site is deployed to GitHub pages.
+  - The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
 
 
 
