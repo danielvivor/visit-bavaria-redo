@@ -10,7 +10,11 @@
 - Footer with Social Media Links  
   - Provides quick access to Facebook, YouTube, Instagram, and Twitter.
   - This feature helps users stay connected with updates across multiple platforms, extending engagement beyond the website itself.
-  - By offering direct links to social channels, the site encourages ongoing interaction and community building for visitors who want to follow events and stories in real time.
+  - By offering direct links to social channels, the site encourages ongoing interaction and community building for visitors who want to follow events and stories      in real time.
+- Signup Form  
+  - A well-structured form collects first name, last name, and email.
+  - Required fields ensure valid submissions, helping users register for updates about Bavarian events.
+
 
 
 
