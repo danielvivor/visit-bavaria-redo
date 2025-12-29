@@ -7,6 +7,7 @@
 - Navigation bar
   - A fixed, accessible navigation bar is included at the top of the site, allowing users to quickly move between sections such as homepage, places/landmarks and       signup.
   - This feature ensures visitors can easily explore without losing their place, improving overall user experience and making the site intuitive.
+ 
 ![Navigation bar](assets/images/screenshots/navbar-expanded.png)
     
 - Footer with Social Media Links  
@@ -18,6 +19,7 @@
 - Signup Form  
   - A well-structured form collects first name, last name, and email.
   - Required fields ensure valid submissions, helping users register for updates about Bavarian events.
+   ![Signup form](assets/images/screenshots/signup-from.png)
 
 - Homepage Hero Image  
 The homepage opens with a full‑height background image that sets the tone for the site.
@@ -33,6 +35,8 @@ The homepage opens with a full‑height background image that sets the tone for 
   - These text snippets give users reliable, evidence‑based information to complement the visual media, helping them understand why each site is significant.
   - This feature is especially valuable for visitors who want more than just images or videos.
   - It ensures the site serves as both an educational resource and a visually engaging experience.
+
+
 
 
 
