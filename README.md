@@ -19,7 +19,7 @@
 - Signup Form  
   - A well-structured form collects first name, last name, and email.
   - Required fields ensure valid submissions, helping users register for updates about Bavarian events.
-   ![Signup form](assets/images/screenshots/signup-from.png)
+ ![Signup form](assets/images/screenshots/signup-form.png)
 
 - Homepage Hero Image  
 The homepage opens with a full‑height background image that sets the tone for the site.
@@ -35,6 +35,90 @@ The homepage opens with a full‑height background image that sets the tone for 
   - These text snippets give users reliable, evidence‑based information to complement the visual media, helping them understand why each site is significant.
   - This feature is especially valuable for visitors who want more than just images or videos.
   - It ensures the site serves as both an educational resource and a visually engaging experience.
+
+ ### Features to be implemented
+-Themes
+  - Explores overarching cultural and historical themes that define Bavarian identity. This will help users understand the broader context behind individual landmarks, artefacts, and events.
+
+- Biographies  
+  - Profiles influential figures from Bavarian history, highlighting their contributions and legacy. This feature will give users a human perspective on the region’s development and cultural richness.
+
+- Timelines  
+  - Provides an interactive chronological view of key events, allowing users to explore history dynamically. This will make it easier for visitors to connect events across centuries and see how Bavaria evolved over time.
+
+- Events  
+  - Covers traditional festivals, cultural gatherings, and historical milestones. This will allow users to discover living traditions and plan visits around authentic Bavarian experiences.
+
+- Resources  
+  - Offers references, external links, and supporting materials for deeper exploration. This ensures the site serves as a reliable starting point for academic research or personal learning.
+
+- About  
+  - Explains the purpose of the project, its creators, and guiding principles. This section will give users transparency and context about the project’s mission.
+
+- Contact  
+  - Provides ways to reach out for feedback, collaboration, or inquiries. This feature will encourage community engagement and open opportunities for partnerships.
+
+### Testing
+Extensive testing has been conducted to ensure that the site works reliably and provides users with a straightforward way to achieve their goals. Each feature was checked for functionality, usability, and accessibility.
+
+Navigation Bar
+ - All links correctly direct users to the intended sections. The bar remains visible and usable across different screen sizes.
+
+Homepage Hero Image  
+ - The background image scales responsively and maintains readability of overlay content.
+
+Landmarks Section  
+  - Checked that images, videos, and text descriptions load consistently, align properly in the grid layout, and remain visually balanced.
+
+Signup Form  
+  - Tested input fields for first name, last name, and email. Required fields prevent empty submissions, ensuring valid data entry.
+
+ Signup Button  
+  - Verified hover effects and click functionality. The button is visually distinct and responsive, encouraging user interaction.
+
+ Footer Links  
+  - Confirmed that links to Facebook, YouTube, Instagram, and Twitter open correctly in new tabs and are accessible.
+
+Responsiveness
+  - Tested on multiple screen sizes (desktop, tablet, mobile).
+  - Layout adapts correctly, with grid and flexbox ensuring consistent alignment.
+  -Text remains legible and buttons are easy to interact with on smaller devices.
+
+Browser Compatibility
+  - Chrome, Firefox, Edge, Safari: All major browsers render the site consistently.
+  - CSS styles, hover effects, and layout behave as intended across platforms.
+
+Accessibility
+  - Semantic HTML structure (<nav>, <main>, <footer>) supports screen readers.
+  - All images include descriptive alt text.
+  - Color contrast between text and background meets accessibility standards.
+
+Bugs and Issues Discovered
+  - Form Validation: While required fields prevent empty submissions, more advanced validation (e.g., email format checking) is not yet implemented.
+
+Validator Testing
+- HTML
+  - No errors were returned when passing through the official W3C validator.
+- CSS
+  - No errors were found when passing through the official (Jigsaw) validator.
+ 
+Deployment
+  - The site is deployed to GitHub pages.
+  - The live link can be found here - https://danielvivor.github.io/visit-bavaria-redo/
+
+Credits
+
+Media
+-   The images used on the homepage, places and signup page are license-free.
+-   The videos embedded on the 'places page' were downloaded from youtube.com.
+
+
+
+
+
+
+
+
 
 
 
