@@ -37,7 +37,7 @@ The homepage opens with a full‑height background image that sets the tone for 
   - It ensures the site serves as both an educational resource and a visually engaging experience.
 
  ### Features to be implemented
-- Themes  
+-Themes
   - Explores overarching cultural and historical themes that define Bavarian identity. This will help users understand the broader context behind individual landmarks, artefacts, and events.
 
 - Biographies  
@@ -79,6 +79,7 @@ Extensive testing has been conducted to ensure that the site works reliably and 
 
  - Footer Links  
   - Confirmed that links to Facebook, YouTube, Instagram, and Twitter open correctly in new tabs and are accessible.
+
 
 
 
