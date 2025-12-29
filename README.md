@@ -107,9 +107,11 @@ Deployment
   - The live link can be found here - https://danielvivor.github.io/visit-bavaria-redo/
 
 Credits
- -Media
+
+Media
 -   The images used on the homepage, places and signup page are license-free.
 -   The videos embedded on the 'places page' were downloaded from youtube.com.
+
 
 
 
