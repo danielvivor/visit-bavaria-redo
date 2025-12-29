@@ -7,6 +7,11 @@
 - Navigation bar
   - A fixed, accessible navigation bar is included at the top of the site, allowing users to quickly move between sections such as homepage, places/landmarks and signup.
   - This feature ensures visitors can easily explore without losing their place, improving overall user experience and making the site intuitive.
+- Footer with Social Media Links  
+  - Provides quick access to Facebook, YouTube, Instagram, and Twitter.
+  - This feature helps users stay connected with updates across multiple platforms, extending engagement beyond the website itself.
+  - By offering direct links to social channels, the site encourages ongoing interaction and community building for visitors who want to follow events and stories in real time.
+
 
 
 
