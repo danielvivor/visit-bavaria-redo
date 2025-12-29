@@ -104,7 +104,13 @@ Validator Testing
  
 Deployment
   - The site is deployed to GitHub pages.
-  - The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+  - The live link can be found here - https://danielvivor.github.io/visit-bavaria-redo/
+
+Credits
+- Media
+-   The images used on the homepage, places and signup page are license-free.
+-   The videos embedded on the 'places page' were downloaded from youtube.com.
+
 
 
 
