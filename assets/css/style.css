@@ -248,21 +248,21 @@ footer p {
 }
 
 .signup-box input {
-  padding: 0.5rem;
-  border: 1px solid #8d540a;
-  border-radius: 4px;
-  background: #fdf6e3;
-  font-size: 1.5rem;
+    padding: 0.5rem;
+    border: 1px solid #8d540a;
+    border-radius: 4px;
+    background: #fdf6e3;
+    font-size: 1.5rem;
 }
 
 #signup-button {
-  background: #8d540a;
-  color: #ffffff;
-  border: none;
-  padding: 0.8rem;
-  border-radius: 6px;
-  font-weight: bold;
-  cursor: pointer;
+    background: #8d540a;
+    color: #ffffff;
+    border: none;
+    padding: 0.8rem;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
 }
 
 /* Media Queries */
@@ -418,5 +418,12 @@ footer p {
 
     #cover-text p {
         font-size: 2.8rem;
+    }
+
+    #landmarks-main {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 30px;
+        align-items: stretch;
     }
 }
