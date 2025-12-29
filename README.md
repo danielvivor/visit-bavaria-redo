@@ -19,7 +19,7 @@
 - Signup Form  
   - A well-structured form collects first name, last name, and email.
   - Required fields ensure valid submissions, helping users register for updates about Bavarian events.
- ![Signup form](assets/images/screenshots/signup-form.png)
+ ![Signup form](assets/images/screenshots/signup.png)
 
 - Homepage Hero Image  
 The homepage opens with a full‑height background image that sets the tone for the site.
@@ -37,7 +37,8 @@ The homepage opens with a full‑height background image that sets the tone for 
   - It ensures the site serves as both an educational resource and a visually engaging experience.
 
  ### Features to be implemented
--Themes
+ The following sections/pages will be added.
+- Themes
   - Explores overarching cultural and historical themes that define Bavarian identity. This will help users understand the broader context behind individual landmarks, artefacts, and events.
 
 - Biographies  
@@ -111,6 +112,8 @@ Credits
 Media
 -   The images used on the homepage, places and signup page are license-free.
 -   The videos embedded on the 'places page' were downloaded from youtube.com.
+
+
 
 
 
