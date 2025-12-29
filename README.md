@@ -13,6 +13,7 @@
   - Provides quick access to Facebook, YouTube, Instagram, and Twitter.
   - This feature helps users stay connected with updates across multiple platforms, extending engagement beyond the website itself.
   - By offering direct links to social channels, the site encourages ongoing interaction and community building for visitors who want to follow events and stories      in real time.
+ ![Social Media links](assets/images/screenshots/social-media-links.png)
 
 - Signup Form  
   - A well-structured form collects first name, last name, and email.
@@ -32,6 +33,7 @@ The homepage opens with a full‑height background image that sets the tone for 
   - These text snippets give users reliable, evidence‑based information to complement the visual media, helping them understand why each site is significant.
   - This feature is especially valuable for visitors who want more than just images or videos.
   - It ensures the site serves as both an educational resource and a visually engaging experience.
+
 
 
 
