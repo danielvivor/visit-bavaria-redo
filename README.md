@@ -62,8 +62,8 @@ The homepage opens with a full‑height background image that sets the tone for 
 Extensive testing has been conducted to ensure that the site works reliably and provides users with a straightforward way to achieve their goals. Each feature was checked for functionality, usability, and accessibility.
 
 #### Feature Testing
- - Navigation Bar  
-  - All links correctly direct users to the intended sections. The bar remains visible and usable across different screen sizes.
+ - Navigation Bar
+ -   All links correctly direct users to the intended sections. The bar remains visible and usable across different screen sizes.
 
  - Homepage Hero Image  
   - The background image scales responsively and maintains readability of overlay content.
@@ -79,6 +79,7 @@ Extensive testing has been conducted to ensure that the site works reliably and 
 
  - Footer Links  
   - Confirmed that links to Facebook, YouTube, Instagram, and Twitter open correctly in new tabs and are accessible.
+
 
 
 
