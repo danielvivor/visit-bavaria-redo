@@ -14,6 +14,11 @@
 - Signup Form  
   - A well-structured form collects first name, last name, and email.
   - Required fields ensure valid submissions, helping users register for updates about Bavarian events.
+- Homepage Hero Image  
+The homepage opens with a full‑height background image that sets the tone for the site.
+  - It provides an immediate visual connection to Bavaria’s landscapes and draws users into the experience.
+  - The hero image helps visitors feel immersed in the theme of Bavaria.
+
 
 
 
