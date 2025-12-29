@@ -58,6 +58,28 @@ The homepage opens with a full‑height background image that sets the tone for 
 - Contact  
   - Provides ways to reach out for feedback, collaboration, or inquiries. This feature will encourage community engagement and open opportunities for partnerships.
 
+### Testing
+Extensive testing has been conducted to ensure that the site works reliably and provides users with a straightforward way to achieve their goals. Each feature was checked for functionality, usability, and accessibility.
+
+#### Feature Testing
+ - Navigation Bar  
+  - All links correctly direct users to the intended sections. The bar remains visible and usable across different screen sizes.
+
+ - Homepage Hero Image  
+  - The background image scales responsively and maintains readability of overlay content.
+
+ - Landmarks Section  
+  - Checked that images, videos, and text descriptions load consistently, align properly in the grid layout, and remain visually balanced.
+
+- Signup Form  
+  - Tested input fields for first name, last name, and email. Required fields prevent empty submissions, ensuring valid data entry.
+
+ - Signup Button  
+  - Verified hover effects and click functionality. The button is visually distinct and responsive, encouraging user interaction.
+
+ - Footer Links  
+  - Confirmed that links to Facebook, YouTube, Instagram, and Twitter open correctly in new tabs and are accessible.
+
 
 
 
